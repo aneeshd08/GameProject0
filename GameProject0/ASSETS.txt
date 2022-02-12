@@ -1,0 +1,11 @@
+Content/Background_City_Skyline_Front_02.png - created by FabinhoSC as part of their Skyline-Background Pack on OpenGameArt.Org (https://opengameart.org/content/skyline-background), released under public domain
+
+Content/Bangers/Bangers-Regular.ttf - Bangers font created by Vernon Adams, released on Google Fonts (https://fonts.google.com/specimen/Bangers) under the Open Font License
+
+Content/Clouds.png - created by Igor Gundarev on OpenGameArt.Org (https://opengameart.org/content/clouds), released under the public domain
+
+Content/Explosions.png - created by Sinestesia on OpenGameArt.Org (https://opengameart.org/content/2d-explosion-animations-frame-by-frame), released under public domain
+
+Content/Saturn.png - created by peony as part of their Space Pixel Art Pack on OpenGameArt.Org (https://opengameart.org/content/space-pixel-art), licensed under CC-BY 4.0
+
+Content/Sun.png - created by peony as part of their Space Pixel Art Pack on OpenGameArt.Org (https://opengameart.org/content/space-pixel-art), licensed under CC-BY 4.0
